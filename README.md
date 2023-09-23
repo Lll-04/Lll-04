@@ -1,7 +1,7 @@
 # *🎉 Welcome to Lll's Github Homepage!*
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
-➕中国海洋大学  
+➕中国海洋大学   
 ➕计算机科学与技术专业  
 ➕软件工程
 
@@ -40,8 +40,6 @@
 
 <div align="center">浏览量统计 </div>
 <div align="center"><img src="https://profile-counter.glitch.me/Lll-04/count.svg" /> </div>
-
-
 
 <!--
 **Lll-04/Lll-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
