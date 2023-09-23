@@ -1,12 +1,26 @@
 # *🎉 Welcome to Lll's Github Homepage!*</font>
 
+ 
+➕中国海洋大学  
+➕计算机科学与技术专业  
+➕软件工程
+
+
 自我介绍
 ----------
 🧚‍♂大家好呀！  
 👫我是北京科技大学21级计算机类学生，本学期来海大进行交流学习，很高兴能认识大家~  
 🌸我热爱生活，喜欢旅游、摄影，希望能养一只小狗和我一起快乐生活  
 🌐在北科曾任团委宣传部组长、学院团委主任等职务，积极参与各类活动，也认识了许多好朋友  
-👣希望能在美丽的西海岸度过收获满满的一个学期  
+👣希望能在美丽的西海岸度过收获满满的一个学期   
+
+(拉萨、重庆、张掖、大连...)  
+<img src="https://github.com/Lll-04/Lll-04/blob/main/1.jpg" width="240px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/2.jpg" width="240px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/3.jpg" width="240px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/4.jpg" width="240px">  
+
+
+
+
+   
 
 成果介绍
 ----------
