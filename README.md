@@ -15,7 +15,7 @@
 👣希望能在美丽的西海岸度过收获满满的一个学期   
 
 (拉萨、重庆、张掖、大连...)  
-<img src="https://github.com/Lll-04/Lll-04/blob/main/1.jpg" width="240px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/2.jpg" width="240px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/3.jpg" width="240px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/4.jpg" width="240px">  
+<img src="https://github.com/Lll-04/Lll-04/blob/main/1.jpg" width="280px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/2.jpg" width="280px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/3.jpg" width="280px"> <img src="https://github.com/Lll-04/Lll-04/blob/main/4.jpg" width="280px">  
 
 
 
